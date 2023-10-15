@@ -5,5 +5,5 @@ This module contains basic sass structure & predefined helper classes, mixins, f
 Is part of my larger web-dev infrastructure & meant to be imported to other, specific website projects.<br>
 
 # How to import
-* Work in progress
+* Importing is unfinished, this project has been discontinued.
 
